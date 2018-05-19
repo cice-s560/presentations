@@ -9,5 +9,6 @@ Existirá una página global (**index**) que contendrá un menú para conocer a 
 
 ## Alumnos del Curso
 
-* Celia Hidalgo 
+* Celia Hidalgo
+* Paco Cabrero
 * Marius C. Mirca
