@@ -1,0 +1,12 @@
+.bioMario{
+    border: 1px solid #e2e2e2;
+    margin-top: 25px;
+    padding: 15px;
+}
+.bioMario__title{
+    margin-bottom: 15px;
+}
+.bioMario__img{
+    display: block;
+    width: 100%;
+}
