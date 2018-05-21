@@ -7,31 +7,54 @@
     <title>Presentaciones</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 </head>
+<style>
+    img.author {
+        width: 100%;
+        height: auto;
+        opacity: .7;
+    }
+    .media-body, .media-left, .media-right {
+        display: table-cell;
+        vertical-align: top;
+    }
+    .media-media {
+        width: 72px;
+        max-width: none;
+        height: 72px;
+        margin-right: 12px;
+    }
+
+    .circle {
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+    }
+</style>
 <body>
     <main>
-        <section>
-            <div class="section__content row">
-                <div class="col-xs-12 col-md-2">
-                    <div class="overflow-hidden">
-                        <div class="about-item animation-item animated fadeInLeft" data-animation-in="fadeInLeft" data-animation-in-delay="900" data-animation-out="fadeOutLeft" data-animation-out-delay="100" style="animation-delay: 900ms;">
-                            <div class="media">
-                                <div class="media-left"> <img class="media-media circle author" src="https://pacocabrero.es/assets/img/author.png" alt=""> </div>
+        <section style="margin-top: 5%;">
+            <div class="container">
+                <div class="section__content row">
+                    <div class="col-xs-12 col-md-2">
+                        <div class="overflow-hidden">
+                            <div class="about-item animation-item animated fadeInLeft" data-animation-in="fadeInLeft" data-animation-in-delay="900" data-animation-out="fadeOutLeft" data-animation-out-delay="100" style="animation-delay: 900ms;">
+                                <div class="media">
+                                    <div class="media-left"> <img class="media-media circle author" src="http://pacocabrero.es/assets/img/author.png" alt=""> </div>
+                                </div>
+                                <!-- .media -->
                             </div>
-                            <!-- .media -->
+                        </div>
+                    </div>
+                    <div class="col-xs-12 col-md-8">
+                        <div class="overflow-hidden">
+                            <div class="animation-item animated fadeInRight" data-animation-in="fadeInRight" data-animation-in-delay="900" data-animation-out="fadeOutRight" data-animation-out-delay="100" style="animation-delay: 900ms;">
+                                <p>Nací en un pueblo de Jaén, y actualmente me encuentro afincado en Madrid. <br>Ingeniero de Montes de formación, hace unos años descubrí el mundo de la programación, y desde entonces me dedico a ello. Me considero un desarrolador <span class="special-word">Frontend</span> y, aunque en menor medida, también <span class="special-word">Backend</span>.
+                                <p>Actualmente trabajo en <span class="bold">TNS Global Group</span>, una consultora de investigación de mercado, donde diseño formularios on-line para empresas del sector automovilístico. Previamente he trabajado en otras empresas como <span class="bold">Endesa</span>, <span class="bold">Alcatel-Lucent</span> y <span class="bold">Ayesa</span>, también como desarrollador.</p>
+                            </div>
+                            <div><a href="https://www.linkedin.com/in/francisco-cabrero-moreno-47667676/" target="blank">Linkedin</a></div>
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-md-8">
-                    <div class="overflow-hidden">
-                        <div class="animation-item animated fadeInRight" data-animation-in="fadeInRight" data-animation-in-delay="900" data-animation-out="fadeOutRight" data-animation-out-delay="100" style="animation-delay: 900ms;">
-                            <p>Nací en un pueblo de Jaén, y actualmente me encuentro afincado en Madrid. <br>Ingeniero de Montes de formación, hace unos años descubrí el mundo de la programación, y desde entonces me dedico a ello. Me considero un desarrolador <span class="special-word">Frontend</span> y, aunque en menor medida, también <span class="special-word">Backend</span>.
-                            <p>Actualmente trabajo en <span class="bold">TNS Global Group</span>, una consultora de investigación de mercado, donde diseño formularios on-line para empresas del sector automovilístico. Previamente he trabajado en otras empresas como <span class="bold">Endesa</span>, <span class="bold">Alcatel-Lucent</span> y <span class="bold">Ayesa</span>, también como desarrollador.</p>
-                        </div>
-                        <div><a href="https://www.linkedin.com/in/francisco-cabrero-moreno-47667676/" target="blank">Linkedin</a></div>
-                    </div>
-                </div>
-            </div>
-
+            </div>     
         </section>
     </main>
 
