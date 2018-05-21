@@ -1,10 +1,3 @@
-#perezmjosea {}
-    #perezmjosea header {background-color: #ccc;}
-        #perezmjosea header .container {font-size:1.4rem;}
-
-    #perezmjosea main {padding:20px;}
-        #perezmjosea main img {max-width:200px;margin-bottom:20px;}
-
 .bioMario{
     border: 1px solid #e2e2e2;
     margin-top: 25px;
