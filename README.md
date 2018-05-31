@@ -9,4 +9,4 @@ Existirá una página global (**index**) que contendrá un menú para conocer a 
 
 ## Alumnos del Curso
 
-* Celia Hidalgo 
+* Javi Muruzábal
