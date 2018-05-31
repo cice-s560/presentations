@@ -11,6 +11,3 @@ Existirá una página global (**index**) que contendrá un menú para conocer a 
 
 * Celia Hidalgo
 * Roberto García
-* Paco Cabrero
-* Marius C. Mirca
-* Javi Muruzábal

@@ -1,0 +1,21 @@
+.imgcelia{
+    width:350px;
+    height: 350px;
+    margin:10% 5% 0 30%;
+}
+
+.titcelia{
+    font-family: 'Playfair';
+    font-size:28px;
+    font-weight: 600;
+    margin-top:10%;
+}
+
+.txtcelia{
+    font-family="Roboto";
+    font-weight:300;
+    font-size:18px;
+}
+.containertxt{
+    width:50%;
+}
