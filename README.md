@@ -13,3 +13,4 @@ Existirá una página global (**index**) que contendrá un menú para conocer a 
 * Roberto García
 * Paco Cabrero
 * Marius C. Mirca
+* Javi Muruzábal
