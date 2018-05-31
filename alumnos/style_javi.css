@@ -10,6 +10,11 @@ a {
     font-weight: bold;
 }
 
+body {
+    margin: 0 auto;
+    text-align: center;
+}
+
 .avatar img {
     max-width: 200px;
     max-height: 200px;
